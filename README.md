@@ -1,6 +1,6 @@
 # gispwa_python_workshop
 materials for gispwa workshop
-![alt text](https://github.com/crescendonow/gispwa_python_workshop/blob/main/vscode_colab.jpeg)
+![alt text](https://github.com/crescendonow/gispwa_python_workshop/blob/main/pwa-map-modal.jpg)
 
 # week I : Basic python
 1. basic datatypes : [![basic datatypes](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1OvQmb6mg_atgd-oEhewYbjCos26PZoa5?usp=sharing)
